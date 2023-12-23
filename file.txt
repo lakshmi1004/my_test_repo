@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-Love is family
-||||||| 4a8f018
-=======
-Love is family. Nandhu learn robotics.
->>>>>>> feature-1
